@@ -1,0 +1,4 @@
+user1 click 15
+user2 click 15
+user1 view 5
+user2 view 8

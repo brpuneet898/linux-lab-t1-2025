@@ -1,0 +1,4 @@
+alice click 30
+alice purchase 50
+bob click 5
+bob view 30
